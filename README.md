@@ -3,7 +3,7 @@ This is my first project in github
 Author: Sravya
 <br>
 # OTPGEN
-Code for Otp generation in python:
+Code for Otp generation and checking whether the entered OTP is correct or incorrect using python:
 <br>
 This repository includes <br>
 1. OTP generation using Digits <br>
